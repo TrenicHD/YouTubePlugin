@@ -1,0 +1,13 @@
+name: YTPlugin
+author: TrenicHD
+main: TrenicHD\Main
+api: 3.0.0
+version: 1.0.0
+
+commands:
+  yt:
+    description: $5Youtuber Rang
+
+permissions:
+  YT.use:
+    default: true
